@@ -1,0 +1,5 @@
+{
+  "name": "Illustration Art Generator",
+  "description": "A visually stunning web application that uses Gemini to generate unique illustration art based on user prompts. Features an attractive UI with smooth animations and a sophisticated color palette.",
+  "requestFramePermissions": []
+}
